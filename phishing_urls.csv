@@ -1,0 +1,4 @@
+url,label,notes
+http://secure-login-example.com/account,phish,contains 'secure' and 'login'
+https://www.example.com/,legit,example site
+http://verify-paypal.example.com/login,phish,looks like paypal verify
