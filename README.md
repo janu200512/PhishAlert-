@@ -4,8 +4,7 @@
 PHISHALERT is a demonstration project that detects and flags suspected phishing URLs and email content.
 It contains a simple Python prototype, sample data, and documentation to run and test the project.
 
-**संक्षेप (HI):**
-PHISHALERT एक नमूना प्रोजेक्ट है जो phishing URLs और ईमेल सामग्री को पहचानने का एक प्रोटोटाइप दिखाता है।
+Summary (HI): PHISHALERT is a sample project that demonstrates a prototype for identifying phishing URLs and email content.
 
 ## Structure
 See repository structure in the ZIP. Key files:
